@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* NJIT brand tokens — available as CSS vars and used in Tailwind utilities */
+@theme {
+  --color-njit-red: #CC0033;
+  --color-njit-navy: #1F3864;
+  --color-njit-red-dark: #a8002a;
+  --color-njit-navy-dark: #162a4e;
+}

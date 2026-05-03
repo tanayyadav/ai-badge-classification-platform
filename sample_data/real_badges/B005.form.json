@@ -1,0 +1,18 @@
+{
+  "badge_title": "Healthcare AI Leadership Micro Credential",
+  "badge_description": "A comprehensive micro credential recognizing professionals who have completed the full Healthcare AI Leadership series. This terminal achievement demonstrates mastery of AI applications in clinical and administrative healthcare contexts.",
+  "issuer": "LDI",
+  "intended_audience": "Working professionals in healthcare and clinical settings",
+  "audience_type": "external_professional",
+  "institutional_context": "Continuing professional education",
+  "earning_criteria_text": "Completion of all three courses in the Healthcare AI Leadership series. Passing the final assessment with an 80% or higher score on the comprehensive capstone.",
+  "assessment_required": "yes",
+  "assessment_type": "final_assessment",
+  "assessment_evaluator": "auto_assessed",
+  "assessment_pass_threshold": "80%",
+  "achievement_type": "Micro Credential",
+  "evidence_required": "yes",
+  "evidence_type": "scored_assessment",
+  "badge_purpose": "recognition",
+  "pdh_credits": "6 PDH"
+}

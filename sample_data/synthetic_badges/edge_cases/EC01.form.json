@@ -1,0 +1,11 @@
+{
+  "_comment": "EC01: Missing issuer — should trigger needs_followup=True, confidence=Low, category=None",
+  "badge_title": "Unknown Issuer Badge",
+  "badge_description": "A badge from an unrecognized issuer. The issuer field is intentionally left blank to test the missing issuer handling path.",
+  "intended_audience": "Unknown audience",
+  "earning_criteria_text": "Complete the required modules and pass the assessment with 80% or higher.",
+  "assessment_required": "yes",
+  "assessment_type": "knowledge_checks",
+  "assessment_evaluator": "auto_assessed",
+  "badge_purpose": "recognition"
+}

@@ -1,0 +1,82 @@
+{
+  "B001": {
+    "description": "OSIL event attendance souvenir — attendance only, no assessment",
+    "input_type": "form",
+    "file": "real_badges/B001.form.json",
+    "expected_category": "Co-Curricular and Extra-Curricular",
+    "expected_type": "Souvenir",
+    "expected_level": "Souvenir",
+    "expected_confidence": "High",
+    "expected_rules": ["S1R04", "S2R05", "S3S01"]
+  },
+  "B003": {
+    "description": "AI Admin Efficiency — LDI faculty, MCAI.002.03 (3rd in 3-course pathway)",
+    "input_type": "form",
+    "file": "real_badges/B003.form.json",
+    "expected_category": "Faculty & Staff Development",
+    "expected_type": "Achievement",
+    "expected_level": "Milestone",
+    "expected_confidence": "High",
+    "expected_rules": ["S1R01", "S2R09", "S3A07"]
+  },
+  "B004": {
+    "description": "AI for Educators Foundational — LDI faculty, MCAI.002.01 (1st in pathway)",
+    "input_type": "form",
+    "file": "real_badges/B004.form.json",
+    "expected_category": "Faculty & Staff Development",
+    "expected_type": "Achievement",
+    "expected_level": "Foundational",
+    "expected_confidence": "High",
+    "expected_rules": ["S1R01", "S2R09", "S3A05"]
+  },
+  "B005": {
+    "description": "LDI Micro Credential — external professional, Terminal Achievement",
+    "input_type": "form",
+    "file": "real_badges/B005.form.json",
+    "expected_category": "Continuing & Professional Education",
+    "expected_type": "Achievement",
+    "expected_level": "Terminal",
+    "expected_confidence": "High",
+    "expected_rules": ["S1R02", "S2R01", "S3A01"]
+  },
+  "B018": {
+    "description": "OSIL Capstone Badge — co-curricular terminal achievement",
+    "input_type": "form",
+    "file": "real_badges/B018.form.json",
+    "expected_category": "Co-Curricular and Extra-Curricular",
+    "expected_type": "Achievement",
+    "expected_level": "Terminal",
+    "expected_confidence": "High",
+    "expected_rules": ["S1R04", "S2R09", "S3A04"]
+  },
+  "B019": {
+    "description": "OSIL Foundational Achievement — first step in co-curricular pathway",
+    "input_type": "form",
+    "file": "real_badges/B019.form.json",
+    "expected_category": "Co-Curricular and Extra-Curricular",
+    "expected_type": "Achievement",
+    "expected_level": "Foundational",
+    "expected_confidence": "High",
+    "expected_rules": ["S1R04", "S2R09", "S3A10"]
+  },
+  "B022": {
+    "description": "Makerspace Skill Badge — expert-scored with applying Bloom level",
+    "input_type": "form",
+    "file": "real_badges/B022.form.json",
+    "expected_category": "Academic",
+    "expected_type": "Skill",
+    "expected_level": "Application",
+    "expected_confidence": "High",
+    "expected_rules": ["S1R05", "S2R06", "S3SK02"]
+  },
+  "B026": {
+    "description": "OGI CPT Compliance Course — compliance badge, category unknown",
+    "input_type": "form",
+    "file": "real_badges/B026.form.json",
+    "expected_category": null,
+    "expected_type": "Achievement",
+    "expected_level": "Foundational",
+    "expected_confidence": "Low",
+    "expected_rules": ["S1R07", "S2R04", "S3A13"]
+  }
+}

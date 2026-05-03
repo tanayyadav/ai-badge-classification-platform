@@ -1,0 +1,16 @@
+{
+  "badge_title": "Student Leadership Forum Participant",
+  "badge_description": "Awarded to students who attended the NJIT Student Leadership Forum. This event brings together students interested in campus involvement and co-curricular development.",
+  "issuer": "OSIL",
+  "intended_audience": "NJIT students interested in leadership and campus engagement",
+  "audience_type": "njit_student",
+  "institutional_context": "Co-curricular student development program",
+  "earning_criteria_text": "Attend the full Student Leadership Forum session. No test or assessment required. Attendance is recorded by OSIL staff.",
+  "assessment_required": "no",
+  "assessment_type": "attendance",
+  "assessment_evaluator": null,
+  "evidence_required": "yes",
+  "evidence_type": "attendance_record",
+  "badge_purpose": "recognition",
+  "pathway_position": "Standalone"
+}

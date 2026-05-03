@@ -1,0 +1,18 @@
+{
+  "_comment": "HP05: Faculty Dev | Souvenir | Souvenir — LDI faculty orientation, no assessment",
+  "badge_title": "New Faculty Orientation Attendee",
+  "badge_description": "Awarded to new NJIT faculty members who attended the annual New Faculty Orientation. Recognizes participation in this essential onboarding event.",
+  "issuer": "LDI",
+  "intended_audience": "New NJIT faculty and instructors",
+  "audience_type": "faculty",
+  "institutional_context": "Faculty onboarding",
+  "earning_criteria_text": "Show up to the New Faculty Orientation event. No assessment or evaluation required. Attendance is recorded.",
+  "assessment_required": "no",
+  "assessment_type": "attendance",
+  "badge_purpose": "recognition",
+  "pathway_position": "Standalone",
+  "expected_category": "Faculty & Staff Development",
+  "expected_type": "Souvenir",
+  "expected_level": "Souvenir",
+  "expected_confidence": "High"
+}

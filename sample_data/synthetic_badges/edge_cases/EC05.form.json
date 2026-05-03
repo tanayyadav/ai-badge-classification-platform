@@ -1,0 +1,15 @@
+{
+  "_comment": "EC05: OR criteria logic — level found via canvas, then OR criteria reduces confidence to Medium",
+  "badge_title": "Digital Literacy Achievement",
+  "badge_description": "Demonstrates digital literacy for NJIT staff. This is the first course in the Digital Literacy series.",
+  "issuer": "LDI",
+  "intended_audience": "NJIT staff and employees",
+  "audience_type": "njit_employee",
+  "institutional_context": "Staff development",
+  "earning_criteria_text": "Complete the online digital literacy course or attend the in-person workshop to earn this badge. Participants may choose either path to satisfy the requirement.",
+  "assessment_required": "yes",
+  "assessment_type": "knowledge_checks",
+  "assessment_evaluator": "auto_assessed",
+  "canvas_course_code": "MCDL.001.01",
+  "badge_purpose": "recognition"
+}

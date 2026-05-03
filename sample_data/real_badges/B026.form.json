@@ -1,0 +1,18 @@
+{
+  "badge_title": "CPT Authorization Course",
+  "badge_description": "Required for all F-1 international students who wish to apply for Curricular Practical Training (CPT) authorization. This badge is mandatory to apply for CPT and verifies that the student has completed the required OGI compliance course.",
+  "issuer": "OGI",
+  "intended_audience": "F-1 international students at NJIT",
+  "audience_type": "njit_student",
+  "audience_restriction": "F-1 international students only",
+  "institutional_context": "International student compliance requirement",
+  "earning_criteria_text": "Attend the full CPT Authorization information session conducted by the Office of Global Initiatives. Students must show up to the scheduled OGI session. No test or assignment required. Attendance is mandatory to apply for CPT.",
+  "assessment_required": "no",
+  "assessment_type": "attendance",
+  "assessment_evaluator": null,
+  "evidence_required": "yes",
+  "evidence_type": "attendance_record",
+  "badge_purpose": "compliance",
+  "mandatory_for": "CPT application",
+  "pathway_position": "Standalone"
+}

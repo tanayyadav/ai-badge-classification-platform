@@ -1,0 +1,16 @@
+{
+  "badge_title": "Makerspace 3D Printing: Application",
+  "badge_description": "Students demonstrate their ability to operate the 3D printer and complete the printing workflow using Makerspace equipment. This badge recognizes applied skill at the Makerspace facility.",
+  "issuer": "Makerspace",
+  "intended_audience": "NJIT students enrolled in Makerspace programs",
+  "audience_type": "njit_student",
+  "institutional_context": "Academic skill development at NJIT Makerspace",
+  "earning_criteria_text": "Students must demonstrate their 3D printing skills through an in-person practical assessment. A Makerspace instructor observes as the student applies the correct settings, uses the printer software, and executes each step of the workflow. Students must perform all steps independently.",
+  "assessment_required": "yes",
+  "assessment_type": "practical",
+  "assessment_evaluator": "expert_scored",
+  "evidence_required": "yes",
+  "evidence_type": "expert_rubric",
+  "expert_evaluation_required": true,
+  "badge_purpose": "recognition"
+}

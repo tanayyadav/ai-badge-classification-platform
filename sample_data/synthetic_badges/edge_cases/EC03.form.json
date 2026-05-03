@@ -1,0 +1,13 @@
+{
+  "_comment": "EC03: Achievement vs Skill ambiguity — assessment_evaluator missing, description suggests skill — should flag follow-up, confidence=Medium",
+  "badge_title": "Python Programming Badge",
+  "badge_description": "Students demonstrate their ability to write Python programs to solve real-world problems. This badge recognizes demonstrated programming skill.",
+  "issuer": "Makerspace",
+  "intended_audience": "NJIT students",
+  "audience_type": "njit_student",
+  "institutional_context": "Academic skill development",
+  "earning_criteria_text": "Students must demonstrate their Python programming skills. Evidence of skill must be submitted for review. An assessor evaluates the submission.",
+  "assessment_required": "yes",
+  "badge_purpose": "recognition",
+  "expert_evaluation_required": true
+}

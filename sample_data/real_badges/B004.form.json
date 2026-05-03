@@ -1,0 +1,18 @@
+{
+  "badge_title": "AI for Educators: Foundations",
+  "badge_description": "This foundation-level badge introduces NJIT faculty to the fundamentals of artificial intelligence in educational settings. No prior experience with AI is required. This is the first course in the AI for Educators series.",
+  "issuer": "LDI",
+  "intended_audience": "NJIT faculty and instructors with no prior AI experience",
+  "audience_type": "faculty",
+  "institutional_context": "Faculty professional development",
+  "earning_criteria_text": "Passing knowledge checks with an 80% or higher score. Completion of all modules on the LDI Canvas platform.",
+  "assessment_required": "yes",
+  "assessment_type": "knowledge_checks",
+  "assessment_evaluator": "auto_assessed",
+  "assessment_pass_threshold": "80%",
+  "evidence_required": "yes",
+  "evidence_type": "scored_assessment",
+  "badge_purpose": "recognition",
+  "canvas_course_code": "MCAI.002.01",
+  "pathway_name": "AI for Educators"
+}

@@ -1,0 +1,20 @@
+{
+  "_comment": "HP02: CPE | Achievement | Foundational — LDI external, canvas seq 1",
+  "badge_title": "Data Analytics Fundamentals",
+  "badge_description": "This foundation-level badge introduces external professionals to the fundamentals of data analytics. No prior experience required. First course in the Data Analytics for Professionals series.",
+  "issuer": "LDI",
+  "intended_audience": "Working professionals new to data analytics",
+  "audience_type": "external_professional",
+  "institutional_context": "Continuing professional education",
+  "earning_criteria_text": "Passing knowledge checks with an 80% or higher score across all modules.",
+  "assessment_required": "yes",
+  "assessment_type": "knowledge_checks",
+  "assessment_evaluator": "auto_assessed",
+  "assessment_pass_threshold": "80%",
+  "badge_purpose": "recognition",
+  "canvas_course_code": "MCDA.003.01",
+  "expected_category": "Continuing & Professional Education",
+  "expected_type": "Achievement",
+  "expected_level": "Foundational",
+  "expected_confidence": "High"
+}

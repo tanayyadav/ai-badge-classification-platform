@@ -1,0 +1,18 @@
+{
+  "_comment": "HP01: CPE | Souvenir | Souvenir — LDI event, attendance only",
+  "badge_title": "Professional Development Summit Participant",
+  "badge_description": "Awarded to working professionals who attended the NJIT Professional Development Summit. This event is designed for workforce professionals looking to expand their network.",
+  "issuer": "LDI",
+  "intended_audience": "Working professionals and industry partners",
+  "audience_type": "external_professional",
+  "institutional_context": "Continuing professional education event",
+  "earning_criteria_text": "Attend the full Professional Development Summit. No test or assignment required. Simply attend the event.",
+  "assessment_required": "no",
+  "assessment_type": "attendance",
+  "badge_purpose": "recognition",
+  "pathway_position": "Standalone",
+  "expected_category": "Continuing & Professional Education",
+  "expected_type": "Souvenir",
+  "expected_level": "Souvenir",
+  "expected_confidence": "High"
+}

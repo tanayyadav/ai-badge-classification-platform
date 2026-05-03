@@ -1,0 +1,15 @@
+{
+  "_comment": "EC02: Conflicting level signals — title says Foundational, description says Terminal — should return Medium confidence with conflict note",
+  "badge_title": "AI Foundation Complete Series",
+  "badge_description": "This badge is awarded upon completing all three courses in the AI series. After completing the foundational and intermediate courses, this final course demonstrates mastery and completes the series.",
+  "issuer": "LDI",
+  "intended_audience": "NJIT faculty",
+  "audience_type": "faculty",
+  "institutional_context": "Faculty development",
+  "earning_criteria_text": "Completion of all three courses. Passing the final assessment with an 80% or higher score. This capstone demonstrates comprehensive achievement.",
+  "assessment_required": "yes",
+  "assessment_type": "final_assessment",
+  "assessment_evaluator": "auto_assessed",
+  "assessment_pass_threshold": "80%",
+  "badge_purpose": "recognition"
+}

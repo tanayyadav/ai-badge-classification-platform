@@ -1,0 +1,13 @@
+NJIT AI-Assisted Digital Badge Classification Tool
+Copyright (c) 2026
+
+Developed as a capstone project at
+New Jersey Institute of Technology
+Faculty Advisor: Prabhat Vaish
+Supervisor: Kerry Eberhardt
+
+Permission is hereby granted to NJIT and its authorized
+representatives to use, modify, and distribute this software
+for institutional badge classification purposes.
+
+NJIT — Spring 2026

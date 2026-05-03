@@ -1,0 +1,23 @@
+{
+  "_comment": "HP07: Co-Curricular | Competency | Demonstrated — OSIL, real-world context",
+  "badge_title": "Community Engagement Competency",
+  "badge_description": "Recognizes NJIT students who have demonstrated community engagement competency in real-world service contexts. Students apply knowledge, skills, and abilities across multiple service projects.",
+  "issuer": "OSIL",
+  "intended_audience": "NJIT students engaged in community service",
+  "audience_type": "njit_student",
+  "institutional_context": "Co-curricular community engagement",
+  "earning_criteria_text": "Students must complete a verified community project and receive a supervisor evaluation. The faculty advisor assesses the student's demonstrated competency using a standardized rubric. Evidence must come from real-world service contexts.",
+  "assessment_required": "yes",
+  "assessment_type": "practical",
+  "assessment_evaluator": "expert_scored",
+  "evidence_required": "yes",
+  "evidence_type": "expert_rubric",
+  "expert_evaluation_required": true,
+  "real_world_context": true,
+  "badge_purpose": "recognition",
+  "achievement_type": "Competency",
+  "expected_category": "Co-Curricular and Extra-Curricular",
+  "expected_type": "Competency",
+  "expected_level": "Demonstrated",
+  "expected_confidence": "High"
+}

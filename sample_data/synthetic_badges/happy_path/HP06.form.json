@@ -1,0 +1,21 @@
+{
+  "_comment": "HP06: Academic | Skill | Application — Makerspace, applying bloom, expert scored",
+  "badge_title": "Laser Cutting Application",
+  "badge_description": "Students demonstrate their ability to operate the laser cutter and complete the cutting workflow using Makerspace equipment. This badge recognizes applied skill in the laser cutting process.",
+  "issuer": "Makerspace",
+  "intended_audience": "NJIT students in academic programs",
+  "audience_type": "njit_student",
+  "institutional_context": "Academic skill development at NJIT Makerspace",
+  "earning_criteria_text": "Students must demonstrate their laser cutting skills through an in-person practical assessment. A Makerspace instructor observes as the student applies the machine settings, uses the software to prepare cut files, and operates the equipment safely. Students must perform all steps independently.",
+  "assessment_required": "yes",
+  "assessment_type": "practical",
+  "assessment_evaluator": "expert_scored",
+  "evidence_required": "yes",
+  "evidence_type": "expert_rubric",
+  "expert_evaluation_required": true,
+  "badge_purpose": "recognition",
+  "expected_category": "Academic",
+  "expected_type": "Skill",
+  "expected_level": "Application",
+  "expected_confidence": "High"
+}

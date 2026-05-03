@@ -1,0 +1,21 @@
+{
+  "_comment": "HP08: Academic | Skill | Mastery — Makerspace, evaluating/creating bloom, expert scored",
+  "badge_title": "Makerspace Mentor Certification",
+  "badge_description": "Students who have demonstrated mastery of Makerspace equipment and can mentor peers in its use. This credential recognizes expert-level skill and the ability to lead and teach others.",
+  "issuer": "Makerspace",
+  "intended_audience": "Advanced NJIT students with demonstrated equipment proficiency",
+  "audience_type": "njit_student",
+  "institutional_context": "Academic advanced skill development",
+  "earning_criteria_text": "Students must demonstrate mastery through an expert-scored capstone evaluation. The Makerspace faculty advisor assesses the student's ability to independently lead, mentor, and teach other students in safe equipment use. Evaluation includes peer coaching and a capstone project.",
+  "assessment_required": "yes",
+  "assessment_type": "project_presentation",
+  "assessment_evaluator": "expert_scored",
+  "evidence_required": "yes",
+  "evidence_type": "expert_rubric",
+  "expert_evaluation_required": true,
+  "badge_purpose": "recognition",
+  "expected_category": "Academic",
+  "expected_type": "Skill",
+  "expected_level": "Mastery",
+  "expected_confidence": "High"
+}

@@ -1,0 +1,19 @@
+{
+  "badge_title": "AI for Administrative Efficiency",
+  "badge_description": "This course builds on foundational AI concepts introduced in earlier modules and focuses on applying AI tools to administrative workflows. Designed for NJIT faculty and staff seeking to deepen their AI fluency in an institutional context.",
+  "issuer": "LDI",
+  "intended_audience": "NJIT faculty and staff with foundational AI knowledge",
+  "audience_type": "njit_employee",
+  "institutional_context": "Faculty and Staff Development pathway",
+  "earning_criteria_text": "Passing knowledge checks with an 80% or higher score across all modules. Completion of the course on the LDI Canvas platform.",
+  "assessment_required": "yes",
+  "assessment_type": "knowledge_checks",
+  "assessment_evaluator": "auto_assessed",
+  "assessment_pass_threshold": "80%",
+  "evidence_required": "yes",
+  "evidence_type": "scored_assessment",
+  "badge_purpose": "recognition",
+  "canvas_course_code": "MCAI.002.03",
+  "canvas_pathway_length": 3,
+  "pathway_name": "AI for Educators"
+}

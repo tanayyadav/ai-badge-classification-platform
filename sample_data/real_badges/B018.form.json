@@ -1,0 +1,17 @@
+{
+  "badge_title": "Leadership Capstone Achievement",
+  "badge_description": "Awarded to students who have completed the OSIL Leadership Development Series. This capstone badge represents the culmination of co-curricular leadership training at NJIT.",
+  "issuer": "OSIL",
+  "intended_audience": "NJIT students who have completed prior leadership badges",
+  "audience_type": "njit_student",
+  "institutional_context": "Co-curricular leadership development pathway",
+  "earning_criteria_text": "Completion of all required OSIL leadership modules. Students must have earned prerequisite badges before applying for this capstone. Attend the full final leadership showcase session.",
+  "assessment_required": "yes",
+  "assessment_type": "module_completion",
+  "assessment_evaluator": "auto_assessed",
+  "evidence_required": "yes",
+  "evidence_type": "platform_tracked",
+  "badge_purpose": "recognition",
+  "has_prerequisite_badges": true,
+  "prerequisite_badges": ["OSIL Leadership Foundational", "OSIL Leadership Intermediate"]
+}

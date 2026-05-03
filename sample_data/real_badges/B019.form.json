@@ -1,0 +1,15 @@
+{
+  "badge_title": "OSIL Leadership Foundations",
+  "badge_description": "This foundation-level badge is the first step in the NJIT OSIL Leadership Development Series. It is designed for students who are new to structured leadership development and have no prior experience with OSIL programming.",
+  "issuer": "OSIL",
+  "intended_audience": "NJIT students beginning their leadership journey",
+  "audience_type": "njit_student",
+  "institutional_context": "Co-curricular student leadership program",
+  "earning_criteria_text": "Attend the full foundational leadership orientation session. Complete the online leadership self-assessment module. No prior experience required.",
+  "assessment_required": "yes",
+  "assessment_type": "module_completion",
+  "assessment_evaluator": "auto_assessed",
+  "evidence_required": "yes",
+  "evidence_type": "platform_tracked",
+  "badge_purpose": "recognition"
+}

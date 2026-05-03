@@ -1,0 +1,20 @@
+{
+  "_comment": "HP03: CPE | Achievement | Milestone — LDI external, canvas seq 2",
+  "badge_title": "Data Analytics Intermediate",
+  "badge_description": "Building on the foundational concepts introduced in the first course, this intermediate credential deepens understanding of applied data analysis techniques for working professionals.",
+  "issuer": "LDI",
+  "intended_audience": "Working professionals who have completed Data Analytics Fundamentals",
+  "audience_type": "external_professional",
+  "institutional_context": "Continuing professional education",
+  "earning_criteria_text": "Passing knowledge checks with an 80% or higher score. Completion of all course modules.",
+  "assessment_required": "yes",
+  "assessment_type": "knowledge_checks",
+  "assessment_evaluator": "auto_assessed",
+  "assessment_pass_threshold": "80%",
+  "badge_purpose": "recognition",
+  "canvas_course_code": "MCDA.003.02",
+  "expected_category": "Continuing & Professional Education",
+  "expected_type": "Achievement",
+  "expected_level": "Milestone",
+  "expected_confidence": "High"
+}

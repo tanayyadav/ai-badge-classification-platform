@@ -1,0 +1,15 @@
+{
+  "_comment": "EC04: Compliance badge — badge_purpose=compliance, should type=Achievement",
+  "badge_title": "Export Control Compliance Training",
+  "badge_description": "Required training for all NJIT researchers who handle export-controlled materials. This badge verifies completion of mandatory compliance requirements.",
+  "issuer": "LDI",
+  "intended_audience": "NJIT faculty and staff conducting research",
+  "audience_type": "njit_employee",
+  "institutional_context": "Regulatory compliance for research staff",
+  "earning_criteria_text": "Attend the full Export Control compliance training session. This training is mandatory to apply for access to export-controlled materials. Students must show up to the training.",
+  "assessment_required": "no",
+  "assessment_type": "attendance",
+  "badge_purpose": "compliance",
+  "mandatory_for": "Access to export-controlled research materials",
+  "pathway_position": "Standalone"
+}
